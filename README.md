@@ -52,8 +52,3 @@ $ terraform plan
 
 $ terraform apply
 ```
-
-
-Enjoy
-
-By Flavio Rocha
